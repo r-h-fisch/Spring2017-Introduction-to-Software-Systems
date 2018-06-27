@@ -1,4 +1,4 @@
-package TestLab9;
+package Lab9;
 
 import javax.swing.JPanel;
 import javax.swing.Timer;

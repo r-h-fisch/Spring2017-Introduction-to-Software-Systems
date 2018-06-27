@@ -1,4 +1,4 @@
-package TestLab9;
+package Lab9;
 
 
 import java.awt.Color;  

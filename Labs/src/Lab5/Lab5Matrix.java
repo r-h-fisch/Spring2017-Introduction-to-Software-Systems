@@ -9,6 +9,7 @@
 //  Last Edited: 2/9/17
 //               
 //////////////////////////////////////////////////////////////////////////////////
+package Lab5;
 public class Lab5Matrix {
 	private double[][] matrix;
 	private final int NUMROW;

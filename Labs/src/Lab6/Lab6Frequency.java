@@ -1,4 +1,4 @@
-
+package Lab6;
 public class Lab6Frequency {
 	private String word="";
 	private int freq=1;
